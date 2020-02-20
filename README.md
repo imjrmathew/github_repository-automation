@@ -9,4 +9,4 @@ Requirements:
 3. webdriver (chrome, based on your chrome version):  https://chromedriver.storage.googleapis.com/index.html
 
 
-You should specify your login credentials and the name of your repository in the github.py file.
+You should specify your login credentials, the name of your repository and the location of yor webdriver in the github.py file.
