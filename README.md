@@ -6,6 +6,7 @@ Requirements:
 
 1. python
 2. selenium: pip install selenium
+3. webdriver (chrome, based on your chrome version):  https://chromedriver.storage.googleapis.com/index.html
 
 
 You should specify your login credentials and the name of your repository in the github.py file.
