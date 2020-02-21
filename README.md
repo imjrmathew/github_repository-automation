@@ -1,4 +1,4 @@
-# github_repository-automation
+# github_repository
 An python automation program using selenium. This will create a github repository automaticaly.
 
 
